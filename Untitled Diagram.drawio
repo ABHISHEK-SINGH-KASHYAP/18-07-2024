@@ -157,16 +157,16 @@
         <mxCell id="d2sz3rpidudHeFFH-vJ1-18" value="Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d2sz3rpidudHeFFH-vJ1-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="490" width="60" height="30" as="geometry" />
+        <mxCell id="d2sz3rpidudHeFFH-vJ1-19" value="Request forgot password" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d2sz3rpidudHeFFH-vJ1-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="490" width="60" height="30" as="geometry" />
+        <mxCell id="d2sz3rpidudHeFFH-vJ1-20" value="Check for new password" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d2sz3rpidudHeFFH-vJ1-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="d2sz3rpidudHeFFH-vJ1-21" value="Request Aceept/Reject" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d2sz3rpidudHeFFH-vJ1-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="d2sz3rpidudHeFFH-vJ1-22" value="Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="540" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
