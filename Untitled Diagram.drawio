@@ -145,16 +145,16 @@
         <mxCell id="d2sz3rpidudHeFFH-vJ1-13" value="Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d2sz3rpidudHeFFH-vJ1-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="d2sz3rpidudHeFFH-vJ1-14" value="Request for Login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d2sz3rpidudHeFFH-vJ1-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="d2sz3rpidudHeFFH-vJ1-16" value="Check for Login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d2sz3rpidudHeFFH-vJ1-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="d2sz3rpidudHeFFH-vJ1-17" value="Request Accept/Reject" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d2sz3rpidudHeFFH-vJ1-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="d2sz3rpidudHeFFH-vJ1-18" value="Response" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d2sz3rpidudHeFFH-vJ1-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
